@@ -15,8 +15,8 @@
 /* A single-screen entrance, followed by a category-led exhibition route. */
 .at-entrance main{padding:18px 22px 12px;min-height:calc(100svh - var(--header-height,76px));display:grid;align-items:center}
 .entrance-compact{display:flex;flex-direction:column;align-items:center;gap:14px;min-height:0;width:100%;max-width:620px;margin:auto}
-.entrance-compact .entrance-heading{width:100%}
-.entrance-compact h1{font-size:clamp(29px,8.3vw,44px);letter-spacing:-1px;line-height:1.06;margin:12px 0 0}
+.entrance-compact .entrance-heading{width:100%;text-align:center}
+.entrance-compact h1{font-size:clamp(29px,8.3vw,44px);letter-spacing:-1px;line-height:1.06;margin:12px auto 0}
 .entrance-compact .eyebrow{font-size:9px;letter-spacing:1.6px}
 .entrance-compact .door-scene{padding:0;width:100%}
 .entrance-compact .arch{height:clamp(160px,37svh,330px);width:min(64vw,250px)}
@@ -54,7 +54,7 @@
 .at-entrance main{height:calc(100svh - var(--header-height,76px));min-height:0;padding:clamp(14px,2.8svh,26px) clamp(18px,5.6vw,32px);display:block}
 .at-entrance footer{display:none}
 .entrance-compact{height:100%;min-height:0;max-width:440px;display:grid;grid-template-columns:minmax(0,1fr);grid-template-rows:auto minmax(100px,1fr) auto auto;gap:clamp(12px,2.2svh,22px);align-items:stretch;margin:0 auto}
-.entrance-compact h1{font-size:clamp(30px,8.6vw,44px);line-height:1.06;margin:10px 0 0;letter-spacing:-1px}
+.entrance-compact h1{font-size:clamp(30px,8.6vw,44px);line-height:1.06;margin:10px auto 0;letter-spacing:-1px}
 .entrance-compact .eyebrow{font-size:clamp(8px,2.2vw,10px);letter-spacing:1.5px}
 .entrance-compact .door-scene{display:flex;align-items:center;justify-content:center;min-height:0;height:100%;padding:0;overflow:visible}
 .entrance-compact .arch{height:100%;max-height:560px;width:min(80vw,320px);margin:0;border-radius:160px 160px 0 0;flex-shrink:0}
@@ -73,3 +73,4 @@
 @media(max-width:360px){.instrument-checkpoints{padding-left:20px}.instrument-checkpoints>li:before{width:20px;left:-20px}.checkpoint-photo{width:74px}.checkpoint{gap:9px}.checkpoint strong{font-size:11px}.visit-dots{display:none}.category-map-node strong{font-size:27px}}
 @media(min-width:700px){.checkpoint-photo{width:160px;min-height:140px}.checkpoint{min-height:140px}.checkpoint-copy{padding:22px 10px}.checkpoint-invite{font-size:12px}.category-map-node .visit-badge b{font-size:40px}}
 .gallery p{white-space:pre-line}
+
