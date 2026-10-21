@@ -1,0 +1,588 @@
+[
+  {
+    "id": "gandrang",
+    "name": "GANDRANG",
+    "category": "membranofon",
+    "region": "makassar gowa",
+    "technique": "ditepuk",
+    "keywords": "gandrang gandrang pamancak",
+    "description": "Instrumen tabuh dalam tradisi musik Makassar. Telusuri hubungan selaput, badan resonansi, dan irama dalam konteks pertunjukan.",
+    "subtitle": "Membranofon · Tabuh Ritual & Pesta Adat",
+    "image": "assets/gandrang.jpg",
+    "audio": null,
+    "descriptionEn": "A drum in Makassar musical traditions. Explore how membranes, a hollow body and the player’s touch shape rhythm.",
+    "narrative": "Mulailah dengan memperhatikan badan Gandrang dan permukaan tabuhnya. Dalam keluarga membranofon, selaput yang dibentangkan menjadi sumber getaran utama. Rongga badan membantu membentuk resonansi, sementara sentuhan pemain memberi tekanan, jeda, dan aksen. Di titik ini, kita mengajak pengunjung membaca irama sebagai rangkaian keputusan, bukan sekadar deretan pukulan.\n\nCatatan BPNB Sulawesi Selatan menempatkan Gandrang dalam kehidupan musik Makassar sejak masa Kerajaan Gowa, sebelum kemerdekaan Indonesia. Dalam konteks tari Pakarena, permainan Gandrang berhubungan dengan gerak penari dan kemampuan penabuh. Bayangkan percakapan antara tubuh yang menari dan tangan yang memainkan: keduanya berbagi ruang pertunjukan, tetapi masing-masing mempunyai cara menyampaikan rasa.\n\nPutar model untuk melihat hubungan permukaan dan badan. Geser kontrol urai bagian untuk mengamati skema selaput, pengikat, dan rongga. Setelah itu, bandingkan dengan keluarga drum di tempat lain. Pertanyaan perjalananmu: bagaimana irama yang sama berubah ketika tekanan tangan, bahan, atau ruang pertunjukannya berubah?",
+    "narrativeEn": "A drum in Makassar musical traditions. Explore how membranes, a hollow body and the player’s touch shape rhythm.",
+    "development": "Kronologi perkembangan bentuk belum terverifikasi.",
+    "developmentEn": "A verified chronology of changes to the form is not yet available.",
+    "video": "assets/videos/gandrang.webm",
+    "videoKind": "schematic",
+    "modelType": "gandrang",
+    "modelUrl": "",
+    "diagram": "assets/exploded/gandrang.svg",
+    "diagramEn": "assets/exploded/gandrang-en.svg",
+    "gallery": [],
+    "parts": [
+      {
+        "title": "Selaput atas",
+        "description": "Permukaan yang bergetar saat ditabuh.",
+        "titleEn": "Upper membrane",
+        "descriptionEn": "The surface vibrates when struck.",
+        "position": null
+      },
+      {
+        "title": "Badan berongga",
+        "description": "Ruang yang membantu membentuk resonansi.",
+        "titleEn": "Hollow body",
+        "descriptionEn": "The cavity helps shape resonance.",
+        "position": null
+      },
+      {
+        "title": "Pengikat",
+        "description": "Menahan dan mengatur tegangan selaput dalam skema.",
+        "titleEn": "Tension cords",
+        "descriptionEn": "Hold the membranes and regulate their tension in this model.",
+        "position": null
+      },
+      {
+        "title": "Selaput bawah",
+        "description": "Permukaan kedua pada model konseptual.",
+        "titleEn": "Lower membrane",
+        "descriptionEn": "A second vibrating surface in this conceptual model.",
+        "position": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "BPNB Sulawesi Selatan — Gandrang",
+        "url": "https://kebudayaan.kemdikbud.go.id/bpnbsulsel/gandrang-alat-musik-tradisional-makassar/"
+      },
+      {
+        "title": "Smithsonian — keluarga instrumen berdawai",
+        "url": "https://festival.si.edu/articles/1975/the-world-family-of-stringed-instruments"
+      }
+    ],
+    "published": true
+  },
+  {
+    "id": "kacaping",
+    "name": "KACAPING",
+    "category": "kordofon",
+    "region": "bugis makassar",
+    "technique": "dipetik",
+    "keywords": "kacaping kecapi perahu",
+    "description": "Instrumen petik dalam kebudayaan Mandar, Bugis, dan Makassar. Petikan dawai dan syair membuka ruang untuk cerita.",
+    "subtitle": "Kordofon · Petik Dua Dawai",
+    "image": "assets/kacaping.jpg",
+    "audio": null,
+    "descriptionEn": "A plucked string instrument in Mandar, Bugis and Makassar cultures. Strings and poetry open a space for storytelling.",
+    "narrative": "Di hadapan Kacaping, perhatian berpindah dari pukulan menuju petikan. Dawai yang ditarik lalu dilepaskan bergetar, dan getaran itu diteruskan ke badan instrumen. Perhatikan jalur pendek antara ujung jari, dawai, dan ruang resonansi. Pada model konseptual ini, bentuk memanjang digunakan untuk membantu melihat hubungan antarbagiannya, bukan untuk menggantikan pengukuran artefak.\n\nBuku Profil Anugerah Budaya 2017 mencatat Kacaping dalam kebudayaan Mandar, Bugis, dan Makassar. Petikan dan syair menjadi bagian penting dari pengalaman mendengarnya. Pengunjung diajak membayangkan bagaimana seorang pemain dapat menanggapi suasana pendengar: sebuah alat musik hadir bersama orang, bahasa, dan situasi yang memberi arti pada bunyinya.\n\nBandingkan Kacaping dengan lute dua dawai di Filipina. Kita membandingkan prinsip dawai dan resonator, tanpa menyimpulkan bahwa satu instrumen merupakan asal langsung instrumen lainnya. Cobalah mengurai model, kemudian susun kembali. Pertanyaan perjalananmu: bagian mana yang paling membantu dawai terdengar, dan bagaimana petikan membuka ruang untuk sebuah cerita?",
+    "narrativeEn": "A plucked string instrument in Mandar, Bugis and Makassar cultures. Strings and poetry open a space for storytelling.",
+    "development": "Kronologi perkembangan bentuk belum terverifikasi.",
+    "developmentEn": "A verified chronology of changes to the form is not yet available.",
+    "video": "assets/videos/kacaping.webm",
+    "videoKind": "schematic",
+    "modelType": "kacaping",
+    "modelUrl": "",
+    "diagram": "assets/exploded/kacaping.svg",
+    "diagramEn": "assets/exploded/kacaping-en.svg",
+    "gallery": [],
+    "parts": [
+      {
+        "title": "Dawai",
+        "description": "Sumber getaran ketika dipetik.",
+        "titleEn": "Strings",
+        "descriptionEn": "The source of vibration when plucked.",
+        "position": null
+      },
+      {
+        "title": "Jembatan dawai",
+        "description": "Meneruskan getaran ke badan dalam skema.",
+        "titleEn": "Bridge",
+        "descriptionEn": "Transfers string vibration to the body.",
+        "position": null
+      },
+      {
+        "title": "Papan permukaan",
+        "description": "Permukaan resonator konseptual.",
+        "titleEn": "Soundboard",
+        "descriptionEn": "The surface of the conceptual resonator.",
+        "position": null
+      },
+      {
+        "title": "Badan kayu",
+        "description": "Rongga untuk memperjelas hubungan bentuk dan bunyi.",
+        "titleEn": "Wooden body",
+        "descriptionEn": "A cavity that illustrates the relationship between shape and sound.",
+        "position": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "Kemendikbud — Profil Anugerah Budaya 2017",
+        "url": "https://repositori.kemendikdasmen.go.id/4991/1/Buku_Profil_Anugerah_Budaya_2017.pdf"
+      },
+      {
+        "title": "NCCA Filipina — Philippine Music Instruments",
+        "url": "https://ncca.gov.ph/about-ncca-3/subcommissions/subcommission-on-the-arts-sca/music/philippine-music-instruments/"
+      }
+    ],
+    "published": true
+  },
+  {
+    "id": "pui-pui",
+    "name": "PUI-PUI",
+    "category": "aerofon",
+    "region": "makassar gowa sulawesi selatan",
+    "technique": "ditiup",
+    "keywords": "pui-pui puipui terompet selompret",
+    "description": "Instrumen tiup pada metadata prototipe Makassar–Gowa. Telusuri hubungan napas, saluran udara, dan karakter bunyi.",
+    "subtitle": "Aerofon · Tiup Lidah Ganda (Double Reed)",
+    "image": "assets/pui-pui.jpg",
+    "audio": null,
+    "descriptionEn": "A wind instrument associated with Makassar–Gowa in the prototype metadata. Follow breath through the mouthpiece, air channel and bell.",
+    "narrative": "Jalur aerofon dimulai dengan napas. Pada Pui-pui, pengunjung diajak membayangkan udara memasuki bagian peniup, bergerak melewati badan, lalu keluar melalui ujung instrumen. Visualisasi ini menyederhanakan bagian-bagian tersebut agar hubungan antara napas, saluran, dan keluaran bunyi dapat dipahami. Detail bentuk lidah dan ukurannya masih memerlukan dokumentasi langsung.\n\nDalam rancangan awal pameran, Pui-pui ditempatkan bersama konteks pertunjukan Gandrang di wilayah Makassar dan Gowa. Narasi prototipe ini mengajak pengunjung membayangkan perbedaan peran keduanya: satu mengolah irama lewat permukaan tabuh, sementara yang lain membawa garis bunyi melalui aliran udara. Keterangan konteks lokal ini mengikuti metadata prototipe dan perlu dikonfirmasi bersama pemain atau kurator.\n\nBuka perbandingan untuk melihat oboe sebagai contoh instrumen lidah ganda dari konteks lain. Kesamaan mekanisme tidak membuat cara memainkan, repertoar, dan makna budayanya sama. Setelah melihat bagian terurai, tanyakan: bagaimana panjang saluran, bukaan, dan napas pemain dapat membantu membentuk pengalaman mendengar?",
+    "narrativeEn": "A wind instrument associated with Makassar–Gowa in the prototype metadata. Follow breath through the mouthpiece, air channel and bell.",
+    "development": "Kronologi perkembangan bentuk belum terverifikasi.",
+    "developmentEn": "A verified chronology of changes to the form is not yet available.",
+    "video": "assets/videos/pui-pui.webm",
+    "videoKind": "schematic",
+    "modelType": "pui-pui",
+    "modelUrl": "",
+    "diagram": "assets/exploded/pui-pui.svg",
+    "diagramEn": "assets/exploded/pui-pui-en.svg",
+    "gallery": [],
+    "parts": [
+      {
+        "title": "Bagian peniup",
+        "description": "Tempat masuk napas; bentuk lidah disederhanakan.",
+        "titleEn": "Mouthpiece",
+        "descriptionEn": "Air enters here; the reed shape is simplified.",
+        "position": null
+      },
+      {
+        "title": "Badan saluran",
+        "description": "Ruang aliran udara pada model.",
+        "titleEn": "Bore",
+        "descriptionEn": "The air passage within the model.",
+        "position": null
+      },
+      {
+        "title": "Lubang nada",
+        "description": "Bukaan yang ditampilkan secara konseptual.",
+        "titleEn": "Finger holes",
+        "descriptionEn": "Conceptual openings used to explore pitch.",
+        "position": null
+      },
+      {
+        "title": "Corong ujung",
+        "description": "Bagian keluaran pada model prototipe.",
+        "titleEn": "Bell",
+        "descriptionEn": "The outlet of the prototype model.",
+        "position": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "Smithsonian — keluarga instrumen berdawai",
+        "url": "https://festival.si.edu/articles/1975/the-world-family-of-stringed-instruments"
+      },
+      {
+        "title": "The Met — Watteau, Music and Theater, katalog oboe",
+        "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Watteau_Music_and_Theater.pdf"
+      }
+    ],
+    "published": true
+  },
+  {
+    "id": "gesok-gesok",
+    "name": "GESOK-GESOK",
+    "category": "kordofon",
+    "region": "makassar toraja",
+    "technique": "digesek",
+    "keywords": "gesok-gesok rebab keso keso",
+    "description": "Instrumen gesek yang berkaitan dengan Sinrilik Pakesok-kesok. Gerak busur mempertemukan getaran dawai dengan penuturan cerita.",
+    "subtitle": "Kordofon · Gesek Tradisional (Rebab Sulsel)",
+    "image": "assets/gesok-gesok.jpg",
+    "audio": null,
+    "descriptionEn": "A bowed string instrument associated with Sinrilik Pakesok-kesok storytelling. Explore the relationship between bow, strings and resonator.",
+    "narrative": "Gesok-gesok memberi pengalaman berbeda di jalur kordofon. Jika petikan menghasilkan getaran setelah dawai dilepaskan, gesekan dapat mempertahankan getaran selama busur bergerak. Perhatikan posisi dawai, badan resonator, dan busurnya. Ketiganya membentuk hubungan gerak yang dapat dieksplorasi melalui model sederhana pada layar.\n\nDokumentasi Warisan Budaya Takbenda 2013 membahas Sinrilik Pakesok-kesok sebagai penuturan yang dilagukan dengan iringan kesok-kesok. Di ruang pameran, hubungan ini menjadi pintu masuk untuk membayangkan bunyi bersama kisah. Dengarkan dengan perhatian pada hubungan antara suara penutur, jeda, dan bunyi pengiring; rekaman pemain diperlukan untuk pengalaman autentik tersebut.\n\nBandingkan dengan duwagey di Mindanao, contoh instrumen gesek yang juga memiliki badan resonator. Persamaan prinsip membantu kita membaca organologi, sementara tradisi setiap komunitas tetap mempunyai sejarahnya sendiri. Pertanyaan perjalananmu: apa yang berubah ketika dawai digesek terus-menerus, dibandingkan ketika dawai dipetik lalu dibiarkan mereda?",
+    "narrativeEn": "A bowed string instrument associated with Sinrilik Pakesok-kesok storytelling. Explore the relationship between bow, strings and resonator.",
+    "development": "Kronologi perkembangan bentuk belum terverifikasi.",
+    "developmentEn": "A verified chronology of changes to the form is not yet available.",
+    "video": "assets/videos/gesok-gesok.webm",
+    "videoKind": "schematic",
+    "modelType": "gesok-gesok",
+    "modelUrl": "",
+    "diagram": "assets/exploded/gesok-gesok.svg",
+    "diagramEn": "assets/exploded/gesok-gesok-en.svg",
+    "gallery": [],
+    "parts": [
+      {
+        "title": "Dawai",
+        "description": "Getaran dipertahankan melalui gesekan.",
+        "titleEn": "Strings",
+        "descriptionEn": "Vibrate through friction from the bow.",
+        "position": null
+      },
+      {
+        "title": "Leher",
+        "description": "Penopang dawai pada skema.",
+        "titleEn": "Neck",
+        "descriptionEn": "Supports the strings in the model.",
+        "position": null
+      },
+      {
+        "title": "Resonator",
+        "description": "Badan sederhana yang meneruskan getaran.",
+        "titleEn": "Resonator",
+        "descriptionEn": "Helps make string vibrations audible.",
+        "position": null
+      },
+      {
+        "title": "Busur",
+        "description": "Bagian penggesek; bahan dan ukuran belum diukur.",
+        "titleEn": "Bow",
+        "descriptionEn": "Friction sustains string vibration.",
+        "position": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "Kemendikbud — Warisan Budaya Takbenda 2013, buku dua",
+        "url": "https://repositori.kemendikdasmen.go.id/23499/1/Warisan%20budaya%20tak%20benda%20Indonesia%20penetapan%20tahun%202013%20buku%20dua.pdf"
+      },
+      {
+        "title": "NCCA Filipina — Philippine Music Instruments",
+        "url": "https://ncca.gov.ph/about-ncca-3/subcommissions/subcommission-on-the-arts-sca/music/philippine-music-instruments/"
+      }
+    ],
+    "published": true
+  },
+  {
+    "id": "alosu",
+    "name": "ALOSU",
+    "category": "idiofon",
+    "region": "bone soppeng",
+    "technique": "digoyangkan",
+    "keywords": "alosu bissu maggiri getar bambu",
+    "description": "Instrumen goyang pada metadata prototipe Bone–Soppeng. Amati hubungan gerak, wadah, dan getaran dalam keluarga idiofon.",
+    "subtitle": "Idiofon · Getar Bambu Berbiji Sakral",
+    "image": "assets/alosu.jpg",
+    "audio": null,
+    "descriptionEn": "A shaken instrument listed for Bone–Soppeng in the prototype. Explore how movement, a container and its contents create vibration.",
+    "narrative": "Alosu menjadi titik awal untuk mendengar tubuh instrumen itu sendiri. Ketika sebuah wadah berisi partikel digerakkan, benturan di dalamnya dapat menghasilkan bunyi berulang. Pada skema ini, isi ditampilkan sebagai butiran konseptual agar hubungan gerak, benturan, dan wadah terlihat. Bahan serta susunan isi artefak sebenarnya perlu diperiksa melalui dokumentasi.\n\nMetadata rancangan awal menghubungkan Alosu dengan wilayah Bone dan Soppeng serta konteks Bissu. Untuk prototipe, titik ini mengajak pengunjung berhenti sejenak: sebuah benda bunyi dapat mempunyai kedudukan sosial yang tidak terlihat hanya dari bentuk luarnya. Kisah penggunaan, istilah lokal, dan batas dokumentasinya perlu dirumuskan bersama pemilik pengetahuan budaya.\n\nDalam keluarga idiofon, bandingkan prinsip Alosu dengan Angklung: keduanya dapat digerakkan, tetapi bagian yang berbenturan dan bentuk resonansinya berbeda. Kemiripan gerak bukan berarti kesamaan fungsi budaya. Pertanyaan perjalananmu: bagian mana yang benar-benar menghasilkan getaran, dan apa yang perlu kita tanyakan kepada komunitas sebelum menafsirkan bunyinya?",
+    "narrativeEn": "A shaken instrument listed for Bone–Soppeng in the prototype. Explore how movement, a container and its contents create vibration.",
+    "development": "Kronologi perkembangan bentuk belum terverifikasi.",
+    "developmentEn": "A verified chronology of changes to the form is not yet available.",
+    "video": "assets/videos/alosu.webm",
+    "videoKind": "schematic",
+    "modelType": "alosu",
+    "modelUrl": "",
+    "diagram": "assets/exploded/alosu.svg",
+    "diagramEn": "assets/exploded/alosu-en.svg",
+    "gallery": [],
+    "parts": [
+      {
+        "title": "Penutup",
+        "description": "Menahan isi dalam skema wadah.",
+        "titleEn": "Lid",
+        "descriptionEn": "Closes the conceptual container.",
+        "position": null
+      },
+      {
+        "title": "Isi konseptual",
+        "description": "Butiran yang membentur bagian dalam.",
+        "titleEn": "Contents",
+        "descriptionEn": "Move and strike the container when shaken.",
+        "position": null
+      },
+      {
+        "title": "Wadah",
+        "description": "Badan instrumen pada skema.",
+        "titleEn": "Container",
+        "descriptionEn": "The body helps shape the sound.",
+        "position": null
+      },
+      {
+        "title": "Pegangan",
+        "description": "Tempat gerak tangan diteruskan ke wadah.",
+        "titleEn": "Handle",
+        "descriptionEn": "Supports the shaking movement.",
+        "position": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "Smithsonian — keluarga instrumen berdawai",
+        "url": "https://festival.si.edu/articles/1975/the-world-family-of-stringed-instruments"
+      },
+      {
+        "title": "UNESCO — Indonesian Angklung",
+        "url": "https://ich.unesco.org/en/RL/indonesian-angklung-00393"
+      }
+    ],
+    "published": true
+  },
+  {
+    "id": "popondi",
+    "name": "POPONDI / TOLINDO",
+    "category": "kordofon",
+    "region": "toraja luwu",
+    "technique": "dipetik",
+    "keywords": "popondi tolindo satu dawai tempurung",
+    "description": "Instrumen petik satu dawai pada metadata prototipe Toraja–Luwu. Eksplorasi penopang dawai dan resonator konseptual.",
+    "subtitle": "Kordofon · Satu Dawai Tempurung Kelapa",
+    "image": "assets/popondi.jpg",
+    "audio": null,
+    "descriptionEn": "A single-string plucked instrument listed for Toraja–Luwu in the prototype. Explore the string support and conceptual resonator.",
+    "narrative": "Popondi atau Tolindo menutup rangkaian petikan dengan fokus pada satu dawai dalam metadata prototipe. Jumlah dawai yang sedikit tidak membuat pengalaman bunyinya sederhana. Gerak pemain, tegangan, dan resonator tetap membentuk kemungkinan ekspresi. Pada model ini, lengkungan penopang dan badan resonansi ditampilkan secara abstrak agar jalur getaran mudah dibaca.\n\nRancangan awal menempatkan instrumen ini pada konteks Toraja dan Luwu serta suasana perayaan panen. Narasi tersebut dipertahankan sebagai arah cerita prototipe, bukan sebagai penetapan persebaran atau sejarah final. Bayangkan ruang berkumpul tempat bunyi, percakapan, dan rasa syukur saling hadir; dokumentasi masyarakat setempat diperlukan untuk mengisi kisah ini dengan suara yang tepat.\n\nBandingkan prinsip resonator dan dawai dengan contoh lain dalam keluarga kordofon. Kemudian kembali ke Kacaping dan Gesok-gesok untuk melihat perbedaan petikan serta gesekan. Pertanyaan perjalananmu: jika hanya satu dawai digunakan, bagaimana gerak pemain dan bentuk badan dapat membuka ragam pengalaman mendengar?",
+    "narrativeEn": "A single-string plucked instrument listed for Toraja–Luwu in the prototype. Explore the string support and conceptual resonator.",
+    "development": "Kronologi perkembangan bentuk belum terverifikasi.",
+    "developmentEn": "A verified chronology of changes to the form is not yet available.",
+    "video": "assets/videos/popondi.webm",
+    "videoKind": "schematic",
+    "modelType": "popondi",
+    "modelUrl": "",
+    "diagram": "assets/exploded/popondi.svg",
+    "diagramEn": "assets/exploded/popondi-en.svg",
+    "gallery": [],
+    "parts": [
+      {
+        "title": "Dawai",
+        "description": "Sumber getaran melalui petikan.",
+        "titleEn": "String",
+        "descriptionEn": "The source of vibration when plucked.",
+        "position": null
+      },
+      {
+        "title": "Penopang lengkung",
+        "description": "Struktur penegang dawai konseptual.",
+        "titleEn": "Support",
+        "descriptionEn": "Holds the string along its length.",
+        "position": null
+      },
+      {
+        "title": "Resonator",
+        "description": "Badan berbentuk mangkuk dalam skema.",
+        "titleEn": "Resonator",
+        "descriptionEn": "A shell-shaped cavity in this conceptual model.",
+        "position": null
+      },
+      {
+        "title": "Penghubung",
+        "description": "Jalur getaran menuju resonator.",
+        "titleEn": "Bridge",
+        "descriptionEn": "Connects string vibration to the resonator.",
+        "position": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "Smithsonian — keluarga instrumen berdawai",
+        "url": "https://festival.si.edu/articles/1975/the-world-family-of-stringed-instruments"
+      },
+      {
+        "title": "NCCA Filipina — Philippine Music Instruments",
+        "url": "https://ncca.gov.ph/about-ncca-3/subcommissions/subcommission-on-the-arts-sca/music/philippine-music-instruments/"
+      }
+    ],
+    "published": true
+  },
+  {
+    "id": "gong",
+    "name": "GONG",
+    "category": "idiofon",
+    "region": "makassar sulawesi selatan",
+    "technique": "dipukul",
+    "description": "Gong berbunyi melalui getaran badan logam yang dipukul. Instrumen ini disebut bersama gandrang dan puik-puik dalam dokumentasi permainan Gandrang Makassar.",
+    "descriptionEn": "A gong sounds through the vibration of its struck metal body. It is documented alongside gandrang and puik-puik in Makassar Gandrang performance.",
+    "modelType": "gong",
+    "sources": [
+      {
+        "title": "BPNB Sulawesi Selatan — Ragam Teknik Memainkan Gandrang",
+        "url": "https://kebudayaan.kemdikbud.go.id/bpnbsulsel/ragam-teknik-memainkan-gandrang/"
+      }
+    ],
+    "parts": [
+      {
+        "title": "Pencu",
+        "description": "Bagian pusat yang menonjol dalam skema.",
+        "titleEn": "Boss",
+        "descriptionEn": "The raised centre in this conceptual model.",
+        "position": [
+          0,
+          0,
+          0.5
+        ]
+      },
+      {
+        "title": "Badan logam",
+        "description": "Permukaan logam menjadi sumber getaran.",
+        "titleEn": "Metal body",
+        "descriptionEn": "The metal surface is the vibrating body.",
+        "position": [
+          0.8,
+          0.5,
+          0.1
+        ]
+      },
+      {
+        "title": "Bibir",
+        "description": "Tepi melengkung pada model konseptual.",
+        "titleEn": "Rim",
+        "descriptionEn": "The curved edge in the conceptual model.",
+        "position": [
+          -1.4,
+          0,
+          0
+        ]
+      },
+      {
+        "title": "Penggantung",
+        "description": "Penopang gong; bahan dan ukuran perlu dokumentasi.",
+        "titleEn": "Suspension",
+        "descriptionEn": "Supports the gong; materials and dimensions need documentation.",
+        "position": [
+          0.6,
+          1.9,
+          0
+        ]
+      }
+    ],
+    "image": "assets/illustrations/gong.svg",
+    "imageKind": "schematic",
+    "narrative": "Gong berbunyi melalui getaran badan logam yang dipukul. Instrumen ini disebut bersama gandrang dan puik-puik dalam dokumentasi permainan Gandrang Makassar.",
+    "narrativeEn": "A gong sounds through the vibration of its struck metal body. It is documented alongside gandrang and puik-puik in Makassar Gandrang performance.",
+    "audio": null,
+    "video": null,
+    "videoKind": "schematic",
+    "modelUrl": "",
+    "diagram": "",
+    "diagramEn": "",
+    "gallery": [],
+    "development": "Kronologi perubahan bentuk belum terverifikasi. Model dan ilustrasi bukan dokumentasi artefak terukur.",
+    "developmentEn": "A chronology of changes is not yet verified. The model and illustration are not measured artefact documentation.",
+    "published": true
+  },
+  {
+    "id": "suling-lembang",
+    "name": "SULING LEMBANG",
+    "category": "aerofon",
+    "region": "toraja sulawesi selatan",
+    "technique": "ditiup",
+    "description": "Instrumen tiup bambu dari Toraja. Telusuri hubungan napas, saluran udara, dan bukaan nada melalui skema edukatif; bentuk dan ukuran artefak perlu dokumentasi.",
+    "descriptionEn": "A bamboo wind instrument from Toraja. Explore breath, the air channel and finger openings through an educational model; artefact shape and measurements require documentation.",
+    "modelType": "flute",
+    "sources": [
+      {
+        "title": "Universitas Negeri Makassar — Suling Lembang dalam upacara Mangrara",
+        "url": "https://eprints.unm.ac.id/16744/1/SKRIPSI%20BERNA%20TODING.pdf"
+      }
+    ],
+    "parts": [
+      {
+        "title": "Bagian tiup",
+        "description": "Tempat napas diarahkan ke instrumen pada skema.",
+        "titleEn": "Blowing end",
+        "descriptionEn": "Where breath is directed into the conceptual instrument.",
+        "position": null
+      },
+      {
+        "title": "Tabung bambu",
+        "description": "Saluran udara pada model.",
+        "titleEn": "Bamboo tube",
+        "descriptionEn": "The air channel in the model.",
+        "position": null
+      },
+      {
+        "title": "Lubang nada",
+        "description": "Bukaan nada ditampilkan secara sederhana.",
+        "titleEn": "Finger holes",
+        "descriptionEn": "Simplified pitch openings.",
+        "position": null
+      },
+      {
+        "title": "Ujung tabung",
+        "description": "Bagian akhir saluran udara dalam skema.",
+        "titleEn": "Tube end",
+        "descriptionEn": "The end of the conceptual air channel.",
+        "position": null
+      }
+    ],
+    "image": "assets/illustrations/suling-lembang.svg",
+    "imageKind": "schematic",
+    "narrative": "Instrumen tiup bambu dari Toraja. Telusuri hubungan napas, saluran udara, dan bukaan nada melalui skema edukatif; bentuk dan ukuran artefak perlu dokumentasi.",
+    "narrativeEn": "A bamboo wind instrument from Toraja. Explore breath, the air channel and finger openings through an educational model; artefact shape and measurements require documentation.",
+    "audio": null,
+    "video": null,
+    "videoKind": "schematic",
+    "modelUrl": "",
+    "diagram": "",
+    "diagramEn": "",
+    "gallery": [],
+    "development": "Kronologi perubahan bentuk belum terverifikasi. Model dan ilustrasi bukan dokumentasi artefak terukur.",
+    "developmentEn": "A chronology of changes is not yet verified. The model and illustration are not measured artefact documentation.",
+    "published": true
+  },
+  {
+    "id": "rebana",
+    "name": "REBANA",
+    "category": "membranofon",
+    "region": "sulawesi selatan",
+    "technique": "ditepuk",
+    "description": "Instrumen selaput dengan bingkai. Rebana tercatat dalam katalog koleksi Museum La Galigo; identitas pembuat, penggunaan lokal, dan rincian artefak perlu dilengkapi kurator.",
+    "descriptionEn": "A membrane instrument with a frame. Rebana appears in the La Galigo Museum collection catalogue; maker, local usage and artefact details remain to be supplied by the curator.",
+    "modelType": "frame-drum",
+    "sources": [
+      {
+        "title": "Museum La Galigo — Koleksi Pilihan Jilid 1",
+        "url": "https://repositori.kemendikdasmen.go.id/29894/1/KOLEKSI%20PILIHAN%20MUSEUM%20NEGERI%20PROPINSI%20SULSEL%20LA%20GALIGO%20JILID%201.pdf"
+      }
+    ],
+    "parts": [
+      {
+        "title": "Selaput",
+        "description": "Permukaan sumber getaran ketika ditepuk.",
+        "titleEn": "Membrane",
+        "descriptionEn": "The surface vibrates when struck.",
+        "position": null
+      },
+      {
+        "title": "Bingkai",
+        "description": "Penopang selaput pada model.",
+        "titleEn": "Frame",
+        "descriptionEn": "Supports the membrane in the model.",
+        "position": null
+      },
+      {
+        "title": "Tepi pengikat",
+        "description": "Hubungan selaput dan bingkai secara konseptual.",
+        "titleEn": "Attachment edge",
+        "descriptionEn": "The conceptual connection between membrane and frame.",
+        "position": null
+      },
+      {
+        "title": "Ruang belakang",
+        "description": "Sisi terbuka pada skema rebana.",
+        "titleEn": "Open back",
+        "descriptionEn": "The open side of the conceptual frame drum.",
+        "position": null
+      }
+    ],
+    "image": "assets/illustrations/rebana.svg",
+    "imageKind": "schematic",
+    "narrative": "Instrumen selaput dengan bingkai. Rebana tercatat dalam katalog koleksi Museum La Galigo; identitas pembuat, penggunaan lokal, dan rincian artefak perlu dilengkapi kurator.",
+    "narrativeEn": "A membrane instrument with a frame. Rebana appears in the La Galigo Museum collection catalogue; maker, local usage and artefact details remain to be supplied by the curator.",
+    "audio": null,
+    "video": null,
+    "videoKind": "schematic",
+    "modelUrl": "",
+    "diagram": "",
+    "diagramEn": "",
+    "gallery": [],
+    "development": "Kronologi perubahan bentuk belum terverifikasi. Model dan ilustrasi bukan dokumentasi artefak terukur.",
+    "developmentEn": "A chronology of changes is not yet verified. The model and illustration are not measured artefact documentation.",
+    "published": true
+  }
+]

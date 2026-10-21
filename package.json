@@ -1,0 +1,16 @@
+{
+  "name": "rerasa-lokal",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.cjs",
+    "check:deployment": "node --check server.cjs && node --check store.cjs && node --check production.cjs",
+    "backup:data": "node backup-data.cjs",
+    "build": "node build-vercel.cjs",
+    "dev:cloud": "node server-cloud.cjs",
+    "check:cloud": "node --check cloud-api.cjs && node --check supabase-store.cjs && node --check cloud-validation.cjs"
+  },
+  "engines": {
+    "node": "24.x"
+  }
+}

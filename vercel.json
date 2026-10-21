@@ -1,0 +1,63 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "buildCommand": "node build-vercel.cjs",
+  "outputDirectory": "dist",
+  "functions": {
+    "api/handler.js": {
+      "maxDuration": 60,
+      "includeFiles": "{admin.html,assets/**,public/**}"
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/admin.html",
+      "destination": "/api/handler?__route=admin-page"
+    },
+    {
+      "source": "/healthz",
+      "destination": "/api/handler?__route=healthz"
+    },
+    {
+      "source": "/api/:path*",
+      "destination": "/api/handler?__route=:path*"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "same-origin"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        }
+      ]
+    },
+    {
+      "source": "/assets/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, s-maxage=86400, must-revalidate"
+        }
+      ]
+    },
+    {
+      "source": "/public/instruments/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, s-maxage=86400, must-revalidate"
+        }
+      ]
+    }
+  ]
+}
