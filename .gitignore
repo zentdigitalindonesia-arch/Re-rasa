@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.vercel/
+.env
+.env.*
+!.env.example
+.rerasa-private/
+*.sqlite*
+*.db
+*.db-*
+guests.json
+assets/uploads/
+cadangan*/
+backups/
+*.log
+*.zip
