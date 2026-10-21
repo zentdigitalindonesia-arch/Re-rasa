@@ -1,0 +1,15 @@
+.git/
+node_modules/
+dist/
+.env
+.env.*
+.rerasa-private/
+*.sqlite*
+*.db
+*.db-*
+guests.json
+assets/uploads/
+cadangan*/
+backups/
+*.log
+*.zip
