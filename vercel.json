@@ -6,7 +6,8 @@
   "functions": {
     "api/handler.js": {
       "maxDuration": 60,
-      "includeFiles": "{admin.html,assets/**,public/**}"
+      "includeFiles": "{admin.html,assets/**,public/**}",
+      "excludeFiles": "assets/koleksi/*.mp4"
     }
   },
   "rewrites": [
