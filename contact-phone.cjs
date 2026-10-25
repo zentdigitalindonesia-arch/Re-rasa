@@ -1,0 +1,1 @@
+module.exports=function(value){if(typeof value!=='string')return false;const text=value.trim(),digits=text.replace(/\D/g,'');return /^\+?[\d\s().-]+$/.test(text)&&digits.length>=7&&digits.length<=15&&text.length<=30};
