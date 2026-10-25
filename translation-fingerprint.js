@@ -1,0 +1,1 @@
+export function sourceFingerprint(x){let h=2166136261;for(const ch of JSON.stringify([x.description,x.narrative,Object.entries(x.identity||{}).sort(([a],[b])=>a.localeCompare(b,'en'))]))h=Math.imul(h^ch.charCodeAt(0),16777619);return (h>>>0).toString(16)}
