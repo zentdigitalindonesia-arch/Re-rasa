@@ -1,10 +1,13 @@
 /* Public catalog only: never store guest contacts or admin responses. */
 window.CMS_CONTENT={};
 (()=>{
+const hasVideo=x=>Boolean(typeof x.video==='string'?x.video.trim():x.video?.src)||Boolean(x.videos?.some(v=>v&&typeof v.src==='string'&&v.src.trim()));
+const videoFirst=(a,b)=>Number(hasVideo(b))-Number(hasVideo(a));
+window.INSTRUMENTS.sort(videoFirst);
  const key='rerasa-public-catalog-v3',maxAge=24*60*60*1000;
  function apply(rows){
   if(!Array.isArray(rows)||rows.length>200||rows.some(x=>!x||typeof x.id!=='string'||typeof x.name!=='string'||typeof x.narrative!=='string'||!Array.isArray(x.parts)||!Array.isArray(x.sources)))throw Error('Katalog tidak valid.');
-  window.INSTRUMENTS.splice(0,window.INSTRUMENTS.length,...rows);window.CMS_CONTENT={};
+  rows=[...rows].sort(videoFirst);window.INSTRUMENTS.splice(0,window.INSTRUMENTS.length,...rows);window.CMS_CONTENT={};
   for(const x of rows){window.CMS_CONTENT[x.id]=x;const ids=x.sources.map((source,i)=>{const id='cms-'+x.id+'-'+i;window.EXHIBITION.sources[id]=source;return id});window.EXHIBITION.stories[x.id]={paragraphs:x.narrative.split(/\n\s*\n/),prompt:x.description,parts:x.parts.map(p=>[p.title,p.description]),sources:ids}}
  }
  try{const saved=JSON.parse(localStorage.getItem(key)||'null');if(saved&&Date.now()-saved.savedAt<maxAge)apply(saved.rows)}catch{}
