@@ -10,6 +10,7 @@ async function migrate({base=process.env.SUPABASE_URL,key=process.env.SUPABASE_S
   if(prev)await request('/rest/v1/rpc/rerasa_save_instrument',{method:'POST',body:JSON.stringify({p_id:row.id,p_content:content,p_expected_version:prev.version})});
   else await request('/rest/v1/rerasa_instruments?on_conflict=id',{method:'POST',headers:{...headers,Prefer:'resolution=ignore-duplicates,return=minimal'},body:JSON.stringify({id:row.id,content,version:1})});updated++;
  }
+ for(const id of ['alosu','popondi','suling-lembang','rebana']){const prev=current.find(r=>r.id===id);if(prev&&!rows.some(r=>r.id===id))await request('/rest/v1/rerasa_instruments?id=eq.'+id+'&version=eq.'+prev.version,{method:'DELETE'});}
  return updated;
 }
 module.exports=migrate;

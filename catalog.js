@@ -1,7 +1,7 @@
 /* Public catalog only: never store guest contacts or admin responses. */
 window.CMS_CONTENT={};
 (()=>{
- const key='rerasa-public-catalog-v2',maxAge=24*60*60*1000;
+ const key='rerasa-public-catalog-v3',maxAge=24*60*60*1000;
  function apply(rows){
   if(!Array.isArray(rows)||rows.length>200||rows.some(x=>!x||typeof x.id!=='string'||typeof x.name!=='string'||typeof x.narrative!=='string'||!Array.isArray(x.parts)||!Array.isArray(x.sources)))throw Error('Katalog tidak valid.');
   window.INSTRUMENTS.splice(0,window.INSTRUMENTS.length,...rows);window.CMS_CONTENT={};

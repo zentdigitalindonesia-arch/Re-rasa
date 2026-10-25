@@ -4,6 +4,8 @@ module.exports=function(out,v){
  const text=(obj,key,max)=>{const value=obj[key]??'';if(typeof value!=='string'||value.length>max)throw fail('Isian tidak valid: '+key);return value.trim()};
  for(const [key,max]of [['variant',200],['mediaCredit',1000],['mediaLicense',1000],['rights',3000],['audioTranscript',12000],['videoTranscript',12000]])out[key]=text(v,key,max);
  if(typeof v.sourceImportVersion==='string'&&/^aset-web-[a-z0-9-]+$/.test(v.sourceImportVersion))out.sourceImportVersion=v.sourceImportVersion;
+ out.identity={};for(const [key,value]of Object.entries(v.identity||{}).slice(0,24)){if(key.length>100||typeof value!=='string'||value.length>2000)throw fail('Identitas instrumen tidak valid.');out.identity[key]=value;}
+ out.sections=(Array.isArray(v.sections)?v.sections:[]).slice(0,100).map(s=>{if(typeof s.heading!=='string'||s.heading.length>500||!Array.isArray(s.paragraphs)||s.paragraphs.some(p=>typeof p!=='string'||p.length>10000))throw fail('Bagian penjelasan tidak valid.');return {heading:s.heading,level:[2,3,4].includes(s.level)?s.level:2,paragraphs:s.paragraphs}});
  out.editorVersion=v.editorVersion===2?2:1;out.mediaApproved=v.mediaApproved===true;out.useDemoAssets=v.useDemoAssets!==false;out.explodable=v.explodable===true&&out.modelType!=='gong';
  out.modelKind=v.modelKind==='simulation'?'simulation':'uploaded';
  if(out.editorVersion===2&&out.published&&(!out.mediaApproved||!out.mediaCredit||!out.mediaLicense))throw fail('Untuk menerbitkan, isi kredit dan izin media lalu konfirmasi hak penggunaan. Draf tetap dapat disimpan.');
