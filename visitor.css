@@ -74,3 +74,5 @@
 @media(min-width:700px){.checkpoint-photo{width:160px;min-height:140px}.checkpoint{min-height:140px}.checkpoint-copy{padding:22px 10px}.checkpoint-invite{font-size:12px}.category-map-node .visit-badge b{font-size:40px}}
 .gallery p{white-space:pre-line}
 
+
+header .brand{font-size:clamp(16px,4vw,24px);line-height:1.2;max-width:calc(100% - 120px)}header{gap:10px}header .brand small{margin-top:5px}
