@@ -14,3 +14,5 @@ main:focus{outline:none}.controls button{flex:0 1 auto;min-width:120px;white-spa
 
 /* Source catalog photos retain their full composition. */
 .card .photo{height:320px;object-fit:contain;background:#1c302e}.tab-panel p{max-width:900px}.tab-panel>p[style]{line-height:1.85}video{margin-bottom:24px}
+
+.instrument-photo{margin:24px 0}.instrument-photo>.photo{display:block;width:100%;height:auto;max-height:85vh;object-fit:contain}.instrument-photo .muted{margin-top:16px}.exploration-copy{max-width:900px}.exploration-copy p{line-height:1.9}
