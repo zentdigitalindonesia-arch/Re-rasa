@@ -11,3 +11,6 @@ header,main,footer{max-width:1160px;padding-left:36px;padding-right:36px}header{
 
 main:focus{outline:none}.controls button{flex:0 1 auto;min-width:120px;white-space:normal;overflow-wrap:normal}.controls{align-items:stretch}.tabs button{min-width:0}@media(max-width:700px){.controls button{flex:1 1 140px}}
 
+
+/* Source catalog photos retain their full composition. */
+.card .photo{height:320px;object-fit:contain;background:#1c302e}.tab-panel p{max-width:900px}.tab-panel>p[style]{line-height:1.85}video{margin-bottom:24px}

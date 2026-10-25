@@ -7,3 +7,5 @@ function copy(from,to){fs.mkdirSync(to,{recursive:true});for(const e of fs.readd
 for(const dir of ['assets','public'])if(fs.existsSync(path.join(root,dir)))copy(path.join(root,dir),path.join(out,dir));
 for(const p of ['admin.html','catalog-seed.json','.env','store.cjs','supabase'])if(fs.existsSync(path.join(out,p)))throw Error('Unexpected private/server file in static output: '+p);
 console.log('Static build ready in dist; admin.html is served only by the authenticated API.');
+
+if(process.env.VERCEL_ENV==='production'){require('node:child_process').execFileSync(process.execPath,[path.join(root,'import-supabase.cjs')],{stdio:'inherit'});}

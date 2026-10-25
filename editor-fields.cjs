@@ -3,6 +3,7 @@ const fail=message=>Object.assign(Error(message),{status:400});
 module.exports=function(out,v){
  const text=(obj,key,max)=>{const value=obj[key]??'';if(typeof value!=='string'||value.length>max)throw fail('Isian tidak valid: '+key);return value.trim()};
  for(const [key,max]of [['variant',200],['mediaCredit',1000],['mediaLicense',1000],['rights',3000],['audioTranscript',12000],['videoTranscript',12000]])out[key]=text(v,key,max);
+ if(typeof v.sourceImportVersion==='string'&&/^aset-web-[a-z0-9-]+$/.test(v.sourceImportVersion))out.sourceImportVersion=v.sourceImportVersion;
  out.editorVersion=v.editorVersion===2?2:1;out.mediaApproved=v.mediaApproved===true;out.useDemoAssets=v.useDemoAssets!==false;out.explodable=v.explodable===true&&out.modelType!=='gong';
  out.modelKind=v.modelKind==='simulation'?'simulation':'uploaded';
  if(out.editorVersion===2&&out.published&&(!out.mediaApproved||!out.mediaCredit||!out.mediaLicense))throw fail('Untuk menerbitkan, isi kredit dan izin media lalu konfirmasi hak penggunaan. Draf tetap dapat disimpan.');
