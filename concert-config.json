@@ -1,0 +1,13 @@
+{
+  "name": "FMTI",
+  "subtitle": "Registrasi penonton konser",
+  "dates": [
+    "2026-10-28",
+    "2026-10-29"
+  ],
+  "timeZone": "Asia/Makassar",
+  "venue": "Lokasi konser diinformasikan oleh panitia",
+  "registrationCloses": "2026-10-29T16:00:00Z",
+  "origin": "https://rerasa.web.id",
+  "venueEn": "Concert venue will be announced by the organizer"
+}

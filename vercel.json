@@ -12,6 +12,14 @@
   },
   "rewrites": [
     {
+      "source": "/registrasi",
+      "destination": "/registrasi.html"
+    },
+    {
+      "source": "/scan-konser",
+      "destination": "/scanner.html"
+    },
+    {
       "source": "/admin.html",
       "destination": "/api/handler?__route=admin-page"
     },
@@ -57,6 +65,19 @@
         {
           "key": "Cache-Control",
           "value": "public, max-age=0, s-maxage=86400, must-revalidate"
+        }
+      ]
+    },
+    {
+      "source": "/concert-sw.js",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-cache"
+        },
+        {
+          "key": "Service-Worker-Allowed",
+          "value": "/"
         }
       ]
     }
