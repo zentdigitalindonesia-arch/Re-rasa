@@ -7,6 +7,7 @@ module.exports=function(c,fetcher=fetch){
   async ready(){await call(route('rerasa_concert_guests',{select:'code',limit:'0'}));return true},
   async register(g){const data=await rpc('rerasa_register_concert',g);return Array.isArray(data)?data[0]:data},
   async ticket(hash){const {data}=await call(route('rerasa_concert_guests',{select:'code,name,city,country,registered_at,token_hash',token_hash:'eq.'+hash,limit:'1'}));return data[0]},
+  async ticketByCode(code){const {data}=await call(route('rerasa_concert_guests',{select:'code,name,token_hash',code:'eq.'+code,limit:'1'}));return data[0]},
   async createScanner(s){const {data}=await call('/rest/v1/rerasa_concert_scanners',{method:'POST',headers:{...headers,Prefer:'return=representation'},body:JSON.stringify(s)});return data[0]},
   async scanners(){return (await call(route('rerasa_concert_scanners',{select:'id,label,created_at,expires_at,revoked_at',order:'created_at.desc',limit:'100'}))).data},
   async revoke(id){await call(route('rerasa_concert_scanners',{id:'eq.'+id}),{method:'PATCH',body:JSON.stringify({revoked_at:new Date().toISOString()})})},

@@ -43,3 +43,5 @@ Dokumentasi teknis:
 - https://developer.mozilla.org/en-US/docs/Web/API/BarcodeDetector
 
 QR tiket baru dilengkapi tanda tangan digital. Setelah mengunduh daftar/kunci verifikasi, pemindai dapat memeriksa tiket bertanda tangan walaupun registrasinya lebih baru daripada daftar offline. Tiket tanpa tanda tangan yang cocok tetap memerlukan daftar atau koneksi. Duplikasi antar-HP offline baru direkonsiliasi saat sinkronisasi.
+
+Lokasi: Benteng Rotterdam, Makassar. Semua pendaftar tampil pada tabel konser tanpa harus scan. Jika kamera gagal, admin dapat mencari nama/kode tiket dan menekan Konfirmasi hadir setelah memeriksa tiket serta kehadiran pengunjung di gerbang. Hanya dapat dicatat pada hari acara WITA; menggunakan aturan satu check-in per tiket per hari yang sama dengan scanner. Audit operator diberi label Konfirmasi manual admin.
