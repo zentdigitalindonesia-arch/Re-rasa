@@ -1,0 +1,20 @@
+[
+  {
+    "id": "suling-basing",
+    "media": {
+      "title": "Permainan Suling Basing",
+      "src": "assets/koleksi/suling-basing-permainan.mp4",
+      "poster": "assets/koleksi/suling-basing.webp"
+    },
+    "version": "tambahan-20261026-v1"
+  },
+  {
+    "id": "gendrang-bugis",
+    "media": {
+      "title": "Permainan Gendrang Bugisi’ / Gendang Bugis",
+      "src": "assets/koleksi/gendrang-bugis-permainan.mp4",
+      "poster": "assets/koleksi/gendrang-bugis.webp"
+    },
+    "version": "tambahan-20261026-v1"
+  }
+]

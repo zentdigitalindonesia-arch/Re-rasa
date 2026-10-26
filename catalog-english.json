@@ -4556,5 +4556,129 @@
     "rights": "Creator credits and permission details have not been included in the asset package. Contact the manager for reuse information.",
     "sourceVersion": "aset-web-2026-10-25-v2",
     "sourceFingerprint": "d3de255d"
+  },
+  "kacaping-ewako": {
+    "sourceFingerprint": "fffc705c",
+    "description": "Kacaping Ewako is a developed version of the traditional plucked Kacaping of South Sulawesi, designed to meet the needs of musicians in modern stage performances.",
+    "narrative": "1. Description and Background\nKacaping Ewako is a developed version of the traditional Kacaping of South Sulawesi, designed for musicians performing on modern stages.\n\nIts development grew from the experiences of practitioners who encountered problems with the instrument’s sound output during performances. Clear, balanced plucked sound that suits the performance setting is important to a Pakacaping.\n\nThe innovation adapts the traditional instrument to developments in sound technology while preserving its basic form, visual character and cultural identity.\n\nAdded components include frets, a fingerboard, tuning machines, a preamp and a strap pin. These support playing comfort, pitch control and amplification, bringing Bugis-Makassar musical knowledge together with contemporary performance needs.\n\n2. Background and Development Concept\nThe idea arose from the practical needs of Pakacaping musicians on stage, particularly the limited amplification of the traditional instrument when played with other instruments or a sound system.\n\nThe aim is to retain the basic instrument rather than replace the traditional Kacaping, offering players an option better suited to their needs.\n\nA preamp connects the instrument’s signal to amplification. Tuning machines make tuning more practical, while frets and a fingerboard provide a more structured fingering surface. A strap pin supports a carrying strap for different playing positions.\n\nThese developments are intended to improve player comfort and support sound output in performance.\n\n3. Materials and Organology\n\n\n3.1. White Teak Wood\nWhite teak wood is the main construction material. It is shaped into a body that retains the visual character of the traditional Kacaping.\n\n3.2. Stainless Steel Frets\nStainless steel frets mark and delimit string stopping positions to produce particular pitches. Stainless steel supports durability under repeated use.\n\n3.3. Rosewood Fingerboard\nThe fingerboard is the surface on which the player presses the strings. The standard Kacaping Ewako uses rosewood. Together with the frets, it helps the player vary pitch through fingering.\n\n3.4. Fishman LCD Mino Preamp\nThe instrument is fitted with a Fishman LCD Mino preamp. This electronic component supports audio signal processing and output for amplification. It is a central part of the development, addressing musicians’ needs for stage sound output.\n\n3.5. Tuning Machines\nTuning machines adjust string tension. They make tuning easier before a performance and during preparation.\n\n3.6. Strap Pin\nThe strap pin provides an attachment point for an instrument strap, allowing more flexible playing positions.\n\n3.7. Matte Finish\nThe matte finish gives the surface a non-glossy appearance while retaining the visual character of the wood.\n\n4. Playing Technique\nKacaping Ewako is plucked using techniques rooted in traditional Kacaping playing. Sound comes from the vibration of plucked strings.\n\nPitch is changed by pressing the strings against the fretted fingerboard. On stage, the installed electronics can amplify the instrument. Despite the added components, the principle of plucked-string playing remains part of its musical identity.\n\n5. Innovation and Cultural Advancement\nKacaping Ewako shows how traditional instruments can be developed in response to practitioners’ practical needs. Its innovation preserves the basic Kacaping form while improving technical support for playing and performance.\n\nModern components are intended to expand the instrument’s uses while retaining its traditional identity. The instrument illustrates the relationship between cultural knowledge, makers’ creativity, musicians’ experience and music technology.\n\nPreserving traditional instruments can go hand in hand with innovation. Kacaping Ewako represents a living musical tradition adapting to current generations of players while maintaining its cultural roots.\n\n6. References and Documentation\n1. Documentation of the standard Kacaping Ewako: materials, specifications, background and development aims are based on developer information supplied with the collection documentation.\n\n2. Photographic documentation: front and side views, and details of the head, tuners, frets and body construction.\n\n3. Developer documentation: the developer’s name, production location, development year and informants still need to be completed from the original archives.\n\nNote: statements about the purpose of development come from the developer’s explanation. Technical claims of improved sound quality could be supported by recordings or comparative tests with the traditional Kacaping.",
+    "identity": {
+      "Instrument name": "Kacaping Ewako",
+      "Variant": "Standard",
+      "Category": "Chordophone",
+      "Subcategory": "Plucked chordophone",
+      "Type": "Developed traditional musical instrument",
+      "Traditional roots": "Kacaping of the Bugis-Makassar communities, South Sulawesi",
+      "Main material": "White teak wood",
+      "Frets": "Stainless steel",
+      "Fingerboard": "Rosewood",
+      "Electronics": "Fishman LCD Mino preamp",
+      "Additional components": "Tuning machines and strap pin",
+      "Finish": "Matte",
+      "Playing technique": "Plucked"
+    },
+    "sections": [
+      {
+        "heading": "1. Description and Background",
+        "level": 2,
+        "paragraphs": [
+          "Kacaping Ewako is a developed version of the traditional Kacaping of South Sulawesi, designed for musicians performing on modern stages.",
+          "Its development grew from the experiences of practitioners who encountered problems with the instrument’s sound output during performances. Clear, balanced plucked sound that suits the performance setting is important to a Pakacaping.",
+          "The innovation adapts the traditional instrument to developments in sound technology while preserving its basic form, visual character and cultural identity.",
+          "Added components include frets, a fingerboard, tuning machines, a preamp and a strap pin. These support playing comfort, pitch control and amplification, bringing Bugis-Makassar musical knowledge together with contemporary performance needs."
+        ]
+      },
+      {
+        "heading": "2. Background and Development Concept",
+        "level": 2,
+        "paragraphs": [
+          "The idea arose from the practical needs of Pakacaping musicians on stage, particularly the limited amplification of the traditional instrument when played with other instruments or a sound system.",
+          "The aim is to retain the basic instrument rather than replace the traditional Kacaping, offering players an option better suited to their needs.",
+          "A preamp connects the instrument’s signal to amplification. Tuning machines make tuning more practical, while frets and a fingerboard provide a more structured fingering surface. A strap pin supports a carrying strap for different playing positions.",
+          "These developments are intended to improve player comfort and support sound output in performance."
+        ]
+      },
+      {
+        "heading": "3. Materials and Organology",
+        "level": 2,
+        "paragraphs": []
+      },
+      {
+        "heading": "3.1. White Teak Wood",
+        "level": 3,
+        "paragraphs": [
+          "White teak wood is the main construction material. It is shaped into a body that retains the visual character of the traditional Kacaping."
+        ]
+      },
+      {
+        "heading": "3.2. Stainless Steel Frets",
+        "level": 3,
+        "paragraphs": [
+          "Stainless steel frets mark and delimit string stopping positions to produce particular pitches. Stainless steel supports durability under repeated use."
+        ]
+      },
+      {
+        "heading": "3.3. Rosewood Fingerboard",
+        "level": 3,
+        "paragraphs": [
+          "The fingerboard is the surface on which the player presses the strings. The standard Kacaping Ewako uses rosewood. Together with the frets, it helps the player vary pitch through fingering."
+        ]
+      },
+      {
+        "heading": "3.4. Fishman LCD Mino Preamp",
+        "level": 3,
+        "paragraphs": [
+          "The instrument is fitted with a Fishman LCD Mino preamp. This electronic component supports audio signal processing and output for amplification. It is a central part of the development, addressing musicians’ needs for stage sound output."
+        ]
+      },
+      {
+        "heading": "3.5. Tuning Machines",
+        "level": 3,
+        "paragraphs": [
+          "Tuning machines adjust string tension. They make tuning easier before a performance and during preparation."
+        ]
+      },
+      {
+        "heading": "3.6. Strap Pin",
+        "level": 3,
+        "paragraphs": [
+          "The strap pin provides an attachment point for an instrument strap, allowing more flexible playing positions."
+        ]
+      },
+      {
+        "heading": "3.7. Matte Finish",
+        "level": 3,
+        "paragraphs": [
+          "The matte finish gives the surface a non-glossy appearance while retaining the visual character of the wood."
+        ]
+      },
+      {
+        "heading": "4. Playing Technique",
+        "level": 2,
+        "paragraphs": [
+          "Kacaping Ewako is plucked using techniques rooted in traditional Kacaping playing. Sound comes from the vibration of plucked strings.",
+          "Pitch is changed by pressing the strings against the fretted fingerboard. On stage, the installed electronics can amplify the instrument. Despite the added components, the principle of plucked-string playing remains part of its musical identity."
+        ]
+      },
+      {
+        "heading": "5. Innovation and Cultural Advancement",
+        "level": 2,
+        "paragraphs": [
+          "Kacaping Ewako shows how traditional instruments can be developed in response to practitioners’ practical needs. Its innovation preserves the basic Kacaping form while improving technical support for playing and performance.",
+          "Modern components are intended to expand the instrument’s uses while retaining its traditional identity. The instrument illustrates the relationship between cultural knowledge, makers’ creativity, musicians’ experience and music technology.",
+          "Preserving traditional instruments can go hand in hand with innovation. Kacaping Ewako represents a living musical tradition adapting to current generations of players while maintaining its cultural roots."
+        ]
+      },
+      {
+        "heading": "6. References and Documentation",
+        "level": 2,
+        "paragraphs": [
+          "1. Documentation of the standard Kacaping Ewako: materials, specifications, background and development aims are based on developer information supplied with the collection documentation.",
+          "2. Photographic documentation: front and side views, and details of the head, tuners, frets and body construction.",
+          "3. Developer documentation: the developer’s name, production location, development year and informants still need to be completed from the original archives.",
+          "Note: statements about the purpose of development come from the developer’s explanation. Technical claims of improved sound quality could be supported by recordings or comparative tests with the traditional Kacaping."
+        ]
+      }
+    ],
+    "rights": "Documentation and specifications are based on materials supplied by the organizer. Developer name, production location, development year and informants still need to be completed from original archives."
   }
 }
