@@ -1,6 +1,6 @@
 {
   "name": "FMTI Festival Musik Tradisi Indonesia Re'rasa'",
-  "subtitle": "Registrasi penonton konser",
+  "subtitle": "Workshop 27 Oktober · Konser 28–29 Oktober 2026",
   "dates": [
     "2026-10-28",
     "2026-10-29"
@@ -9,5 +9,6 @@
   "venue": "Benteng Rotterdam, Makassar",
   "registrationCloses": "2026-10-29T16:00:00Z",
   "origin": "https://rerasa.web.id",
-  "venueEn": "Fort Rotterdam, Makassar"
+  "venueEn": "Fort Rotterdam, Makassar",
+  "workshopDate": "2026-10-27"
 }
