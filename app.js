@@ -22,5 +22,3 @@ else if(page==='label'){main.innerHTML=intro('Label QR instrumen','Susunan cetak
 else{main.innerHTML=intro('Halaman tidak ditemukan','Kembali untuk melanjutkan eksplorasi.')+'<a class="button" href="#beranda">Beranda</a>'}
 document.title="RE'RASA — "+(page==='instrumen'?(items.find(x=>x.id===route.split('/')[1])?.name||'Instrumen'):page);}
 document.addEventListener('click',e=>{const b=e.target.closest('[data-play]');if(b)play(b.dataset.play)});window.addEventListener('hashchange',()=>{render();window.scrollTo(0,0)});render();
-
-
